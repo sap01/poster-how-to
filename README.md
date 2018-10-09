@@ -1,4 +1,4 @@
-# How to make a good academic poster
+# How to Make a Good Academic Poster
 
 ## Designing a Poster
 Please follow the resources in directory 'Stanford med poster guidelines'. They are downloaded from [https://med.stanford.edu/peds/scholarly-concentrations/research-resources.html](https://med.stanford.edu/peds/scholarly-concentrations/research-resources.html).
